@@ -13,3 +13,5 @@
 - 💬 Ask me about: backend development, lambda functions and MongoDb
 
 - 🌱 I’m currently learning: Distributed systems
+
+- Lula :one::three:
