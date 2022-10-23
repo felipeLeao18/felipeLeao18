@@ -1,16 +1,15 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&size=25&width=700&lines=Welcome+to+my+Profile!;My+name+is+Felipe)](https://git.io/typing-svg)
 
-<!--
-**felipeLeao18/felipeLeao18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 Pronouns: he/him
 
-Here are some ideas to get you started:
+- 🔭 I am working as a backend developer at a Brazilian EdTech company called Tindin educaçao & finanças
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on Open Source Projects
+
+- 📫 How to reach me: flpleao@discente.ufg.br
+
+- ⚡ Fun fact: I am the first programmer in my family
+
+- 💬 Ask me about: backend development, lambda functions and MongoDb
+
+- 🌱 I’m currently learning: Distributed systems
