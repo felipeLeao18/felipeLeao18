@@ -14,4 +14,3 @@
 
 - 🌱 I’m currently learning: Distributed systems
 
-- Lula :one::three:
