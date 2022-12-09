@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: HE/HIM
 
-- 🔭 I am working as a backend developer at a Brazilian EdTech company called Tindin educaçao & finanças
+- 🔭 I am working as a backend developer at a Brazilian  LogTech company called CargOn
 
 - 👯 I’m looking to collaborate on Open Source Projects
 
