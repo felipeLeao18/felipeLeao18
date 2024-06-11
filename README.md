@@ -6,11 +6,7 @@
 
 - 👯 I’m looking to collaborate on Open Source Projects
 
-- 📫 How to reach me: flpleao@discente.ufg.br
-
 - ⚡ Fun fact: I am the first programmer in my family
 
 - 💬 Ask me about: backend development, lambda functions and MongoDb
-
-- 🌱 I’m currently learning: Distributed systems
 
