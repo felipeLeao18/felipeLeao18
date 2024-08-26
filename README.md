@@ -2,11 +2,9 @@
 
 - 😄 Pronouns: HE/HIM
 
-- 🔭 I am working as a backend developer at a Brazilian  LogTech company called CargOn
+- 🔭 I am working as a Software engineer at a Brazilian  LogTech company called CargOn
 
 - 👯 I’m looking to collaborate on Open Source Projects
-
-- ⚡ Fun fact: I am the first programmer in my family
 
 - 💬 Ask me about: backend development, lambda functions and MongoDb
 
